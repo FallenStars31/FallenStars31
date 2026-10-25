@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Naufal Ikhsan 👋
+# Hi, I'm Naufal Ikhsan
 
 ### Computer Science Graduate | Data • AI • Software Development
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science graduate from Universitas Putra Indonesia YPTK Padang, Indonesia, interested in the intersection of **data science, artificial intelligence, and software development**.
 
@@ -23,7 +23,7 @@ Throughout my academic journey, I explored different areas of computing, includi
 
 I'm currently strengthening my technical foundation through hands-on projects, experimentation, and independent learning. My goal is to keep developing as a well-rounded technology professional while building solutions that are useful, understandable, and grounded in evidence.
 
-## 🎓 Academic Background
+## Academic Background
 
 My undergraduate studies introduced me to several areas of computer science:
 
@@ -59,7 +59,7 @@ Beyond the reported performance, this project helped me understand the importanc
 
 The experience encouraged me to approach machine learning as an iterative process of experimentation, evaluation, and improvement rather than simply selecting an algorithm and measuring its final score.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 The following are technologies and concepts I have worked with through academic coursework and projects.
 
@@ -105,7 +105,7 @@ The following are technologies and concepts I have worked with through academic 
 
 *My proficiency varies across technologies. I continue to strengthen my fundamentals and improve my implementation practices through hands-on work.*
 
-## 🧠 How I Approach Problems
+## How I Approach Problems
 
 I value a structured and evidence-oriented approach to technical work.
 
@@ -129,7 +129,7 @@ I'm continuing to develop my skills in areas that connect data, AI, and software
 
 This section will evolve as I complete new projects and gain more practical experience.
 
-## 🎯 Career Direction
+## Career Direction
 
 I'm interested in entry-level opportunities across data-focused roles, AI-related development, and software engineering.
 
@@ -137,7 +137,7 @@ At this stage, my priority is to establish a strong technical foundation, learn 
 
 I see continuous learning as an important part of this journey, but I also believe it should be supported by tangible work, careful evaluation, and clear documentation.
 
-## 📂 Explore My Work
+## Explore My Work
 
 You can explore my repositories to see the projects I'm working on, the approaches I've tried, and the progress I'm making.
 
