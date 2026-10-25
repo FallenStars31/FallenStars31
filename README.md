@@ -1,4 +1,4 @@
-# Hi there, I'm Naufal Ikhsan 👋
+# Hello, I'm Naufal Ikhsan 👋
 
 I'm a Computer Science graduate from Universitas Putra Indonesia YPTK Padang, Indonesia, with an academic background in data science, artificial intelligence, and software development. I'm currently building my technical portfolio while exploring opportunities to apply my knowledge to practical engineering and data-driven problems.
 
